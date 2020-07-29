@@ -7,4 +7,4 @@ simulation. We're interested in creating new proteins that address some of the
 challenges that we face as a society, and making tools that are accessible, so that
 other researchers that are non specialists can do the same.
 
-Check out [our group website](www.wellswoodresearchgroup.com) for more information.
+Check out [our group website](https://www.wellswoodresearchgroup.com) for more information.
